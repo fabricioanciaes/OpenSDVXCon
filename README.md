@@ -31,7 +31,7 @@ As for laser cutting, some popular services are [sendcutsend](https://sendcutsen
     - [0.250" or 6.3mm crimp connectors (for leds, 2 for each lamp)](https://aliexpress.com/item/1005002334417636.html)
     - [20 awg stranded wire (highly recommend buying 2 colors)](https://aliexpress.com/item/1005004200382009.html)
 - **Encoders**
-    - [2x Chinese Encoder](https://aliexpress.com/item/32669741048.htm)
+    - [2x Chinese Encoder](https://aliexpress.com/item/32669741048.html)
 - **Buttons**
     - [60*60 buttons (ABCD)](https://aliexpress.com/item/1005002359530037.html)
     - [50*33 buttons (FX-L & FX-R)](https://aliexpress.com/item/1005003157616433.html)
