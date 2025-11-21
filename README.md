@@ -117,6 +117,8 @@ Credits to the artwork go to CXO2 on Cons&Stuff Discord for providing a template
 
 I'm also providing ready to print PDFs (with and without outlines for cutting) that you can send to your preferred printing services.
 
+Please check the Artwork folder and download the files from there.
+
 ### Done
 
 Your controller should look something like this:
@@ -126,3 +128,4 @@ Be aware that this picture is from the v1 of this controller so there are some d
 If this has been helpful support me on ko-fi, good luck on building your controller!
 
 [![support me on ko-fi](./Assets/kofi.gif)](https://ko-fi.com/lofi1048)
+
