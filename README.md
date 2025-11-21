@@ -105,10 +105,17 @@ You will probably need to adjust the sensitivity on your encoders depending on h
 
 ### Installing artwork
 
-You will need to print a big enough art using the provided art template (or you can base yourself from the top acrylic plate file)
+I'm providing 2 templates based on Virgoo's turbocharger controller (for no particular reason, I just think they're pretty)
 
-Place the acrylic plate on top of the atwork paper and with a x-acto knife or some sharp enough blade cut around the acrylic. Put your artwork underneath the acrylic and screw the top plate back again.
 
+##### Light Artwork
+![Light Artwork](Assets/art-sdvx-preview.jpg)
+##### Dark Artwork
+![Dark Artwork](Assets/art-sdvx-dark-preview.jpg)
+
+Credits to the artwork go to CXO2 on Cons&Stuff Discord for providing a template that I could adapt into something that works for this particular project.
+
+I'm also providing ready to print PDFs (with and without outlines for cutting) that you can send to your preferred printing services.
 
 ### Done
 
